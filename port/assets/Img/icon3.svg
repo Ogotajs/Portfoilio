@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="235.289" height="280.596" viewBox="0 0 235.289 280.596">
+  <defs>
+    <filter id="Path_11" x="0" y="0" width="235.289" height="280.596" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_103" data-name="Group 103" transform="translate(-1545.292 -2842.011)">
+    <g id="Group_5" data-name="Group 5" transform="translate(576 2863.011)">
+      <g id="Group_88" data-name="Group 88">
+        <g transform="matrix(1, 0, 0, 1, 969.29, -21)" filter="url(#Path_11)">
+          <path id="Path_11-2" data-name="Path 11" d="M292.07,1923.167v232.6H479.359V1959.177l-34.214-36.009Z" transform="translate(-268.07 -1902.17)" fill="#93a2c3"/>
+        </g>
+      </g>
+    </g>
+    <text id="_3" data-name="3" transform="translate(1608.752 3072.011)" fill="#fff" font-size="100" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">3</tspan></text>
+  </g>
+</svg>
